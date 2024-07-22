@@ -1,1 +1,15 @@
- 
+# Ignore virtual environment directories
+myenv/
+
+# Ignore database files
+tasks.db
+
+# Ignore byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+
